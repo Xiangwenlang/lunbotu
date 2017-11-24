@@ -1,0 +1,118 @@
+body{
+	background-image:url(bg.png); 
+	background-repeat: no-repeat;
+}
+#daohang{
+	height:150px;
+	width:1400px;
+	position: relative;
+	
+
+}
+
+
+.yinying{
+	position: absolute;
+	top :290px;
+	left: 60px;
+	z-index: 1;
+}
+.shape1{
+	padding-left: 116px;
+	padding-top: 61px;
+	float:left;
+}
+.H{
+	margin-left: 103px;
+	padding-top:70px;
+	float:left;
+}
+.zhixian{
+	float: left;
+	height: 150px;
+	padding-left: 47px;
+	padding-right:47px;
+}
+.Chat{
+    float:right;
+   padding-right: 110px;
+   padding-top: 38px;
+}   
+#ban1{
+	margin: 0 auto;
+	background-image: url(qiqiu.png);
+	height:794px;
+	width: 1400px;
+}
+.beijing{
+    margin: 0 auto;
+    height:794px;
+	width: 1400px;
+	z-index: 1;
+}
+
+
+.Shape6{
+	z-index: 2;
+	text-align: center;
+	padding-top: 20px;
+	
+}
+.word1{
+   width: 1400px; 
+   height: 50px;
+   text-align: center;
+   margin-top: -550px;
+   color: rgba(249, 250, 249, 0.966);
+   font-size: 50px; 
+   z-index: 2;
+}
+
+.word2{width: 1400px; 
+   height: 50px;
+   text-align: center;
+   color:rgb(230, 235, 231);
+   font-size: 25px; 
+   padding-top: 54px;
+   z-index: 3;
+}
+.sousuo{
+	padding-top:56px;
+	text-align: center;
+}
+#ban2{
+	padding-top: 0px;
+	width: 1400px;
+	height: 650px;
+	margin: 0 auto;
+}
+.Services{
+	text-align: center;
+}
+#ban4{
+	margin: 0 auto;
+	width: 1400px;
+	height: 700px;
+	background-image: url(en.png);
+}
+.word3{
+	font-size: 60px;
+	text-align: center;
+	width: 1400px;
+	height: 70px;
+	color: rgb(231, 240, 194);
+	padding-top: 85px;
+}
+.word4{
+	font-size: 30px;
+	text-align: center;
+	width: 1400px;
+	height: 40px;
+	padding-top: 35px;
+	color: rgb(75, 245, 245);
+}
+.fu{
+	float: left;
+	padding-top: 170px;
+	padding-left: 170px;
+}
